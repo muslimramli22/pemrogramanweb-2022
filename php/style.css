@@ -1,0 +1,19 @@
+.kotak {
+    width: 80px;
+    height: 80px;
+    background-color: rgb(80, 143, 109);
+    color: rgb(253, 253, 253);
+    text-align: center;
+    line-height: 80px;
+    font-size: 50px;
+    display: inline;
+    /* margin: 5px; */
+    padding: 10px;
+    margin-right: 5px;
+    
+}
+
+.foto {
+    width: 150px;
+    list-style: none;
+}
